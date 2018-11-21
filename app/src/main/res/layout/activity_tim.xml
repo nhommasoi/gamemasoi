@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bgtim">
+
+    <LinearLayout
+        android:layout_width="120dp"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <ImageButton
+            android:id="@+id/bguser1"
+            android:layout_width="90dp"
+            android:layout_height="90dp"
+
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="80dp"
+            android:background="@drawable/user" />
+
+
+        <ImageButton
+            android:id="@+id/bguser2"
+            android:layout_width="90dp"
+            android:layout_height="90dp"
+
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="60dp"
+            android:background="@drawable/image_user"
+            />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="120dp"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <ImageButton
+            android:id="@+id/bguser3"
+            android:layout_width="90dp"
+            android:layout_height="90dp"
+
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="80dp"
+            android:background="@drawable/image_user" />
+
+
+        <ImageButton
+            android:id="@+id/bguser4"
+            android:layout_width="90dp"
+            android:layout_height="90dp"
+
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="60dp"
+            android:background="@drawable/image_user"
+            />
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="120dp"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <ImageButton
+            android:id="@+id/bguser5"
+            android:layout_width="90dp"
+            android:layout_height="90dp"
+
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="80dp"
+            android:background="@drawable/image_user" />
+
+
+        <ImageButton
+            android:id="@+id/bguser6"
+            android:layout_width="90dp"
+            android:layout_height="90dp"
+
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="60dp"
+            android:background="@drawable/image_user"
+            />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="120dp"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <ImageButton
+            android:id="@+id/bguser7"
+            android:layout_width="90dp"
+            android:layout_height="90dp"
+
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="80dp"
+            android:background="@drawable/image_user" />
+
+
+        <ImageButton
+            android:id="@+id/bguser8"
+            android:layout_width="90dp"
+            android:layout_height="90dp"
+
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="60dp"
+            android:background="@drawable/image_user"
+            />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="120dp"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <ImageButton
+            android:id="@+id/bguser9"
+            android:layout_width="90dp"
+            android:layout_height="90dp"
+
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="80dp"
+            android:background="@drawable/image_user" />
+
+
+        <ImageButton
+            android:id="@+id/bguser10"
+            android:layout_width="90dp"
+            android:layout_height="90dp"
+
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="60dp"
+            android:background="@drawable/image_user"
+            />
+
+    </LinearLayout>
+
+</LinearLayout>
